@@ -7,7 +7,6 @@
 * [The company wants to know](the_company_wants_to_know)
 * [Goals](goals)
 * [Technologies Used](#technologies-used)
-    * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
   
 
@@ -28,8 +27,8 @@ A US bike-sharing provider BoomBikes has recently suffered considerable dips in 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
--
+
+
 
 
 
