@@ -60,7 +60,7 @@ A US bike-sharing provider BoomBikes has recently suffered considerable dips in 
 ## Acknowledgements
 - From Event labeling combining ensemble detectors and background knowledge, I have inspired and Data scourcing 
 - Progress in Artificial Intelligence
-- This project was based on [Springer Berlin Heidelberg Research paper]([http://dx.doi.org/10.1007/s13748-013-0040-3]).
+- This project was based on [Springer Berlin Heidelberg Research paper](http://dx.doi.org/10.1007/s13748-013-0040-3]).
 
 
 ## Contact
